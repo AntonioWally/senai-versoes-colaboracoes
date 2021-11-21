@@ -1,6 +1,6 @@
 # senai-versoes-colaboracoes
 ## Principais comandos do Git
-#### **git config** - Define valores de configuração ao projeto, seja ele local ou global
+**git config** - Define valores de configuração ao projeto, seja ele local ou global
 #### **git init** - Cria um novo repositório do Git
 #### **git add** - Adiciona uma alteração no diretório ativo à área de staging
 #### **git commit** - Permite que você guarde o estado do seu repositório naquele momento
