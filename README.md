@@ -1,5 +1,5 @@
-## senai-versoes-colaboracoes
-### Principais comandos do Git
+# senai-versoes-colaboracoes
+## Principais comandos do Git
 #### git config
 ###### Define valores de configuração ao projeto, seja ele local ou global
 #### git init
